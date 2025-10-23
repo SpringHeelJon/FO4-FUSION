@@ -6,109 +6,225 @@ DLCCoast.esm
 DLCworkshop02.esm
 DLCworkshop03.esm
 DLCNukaWorld.esm
-Unofficial Fallout 4 Patch.esp
-PPF.esm
-CanarySaveFileMonitor.esl
-Rusty Face Fix.esl
-FOVSlider.esl
-Friendly Raider.esl
-NQAS - Automatron.esl
-NQAS - BoS Fire Support.esl
-NQAS - VaultTec.esl
-SwimmingAnims.esl
-DeadGeneral.esl
-Corpse Collision.esl
-Autorun Console Commands.esl
-Snapgasm.esl
-Fallout 4 Fixes.esm
-LegendariesTheyCanUse.esp
-Chem Station Renamed.esl
-LooksMenu.esp
-RAW INPUT.esp
-MiscAnimTweaks.esp
-MeleeFinishersRebalance.esp
+ccBGSFO4044-HellfirePowerArmor.esl
+ccBGSFO4115-X02.esl
+ccBGSFO4116-HeavyFlamer.esl
+ccBGSFO4110-WS_Enclave.esl
+ccBGSFO4096-AS_Enclave.esl
+ccFSVFO4007-Halloween.esl
+ccBGSFO4046-TesCan.esl
+ccSBJFO4003-Grenade.esl
+ccOTMFO4001-Remnants.esl
+unofficial fallout 4 patch.esp
+community fixes merged.esp
+TMR_GlitchfinderAIO.esm
+REFramework.esm
+BakaFramework.esm
+HUDFramework.esm
+fakeInt.esp
+fakeInt_Boston.esp
+fakeInt_DLC.esp
 Ownership Fixes.esp
-LongRangeBulletHoles.esp
-Non-repeating player comments in Vault 111.esp
-CarPhysicsDeathBugfix.esp
-Vault 111 Terminals Patch.esp
-General Atomics Fix.esp
-hz_Reload Speed Fix.esp
-cryofix.esp
-PoolRackFix.esp
+WorkshopFramework.esm
+Height Randomizer.esp
+UnderwearCW.esl
+CHALLENGES.esm
+REPUTATION.esm
+BloodFixes.esm
+DriedBlood.esm
+Jack's Better Pre-War Laser Gun.esl
+TesCanUpdate.esl
+SKI_CCHeavyFlamerAddon.esl
+YouAndWhatArmy2.esm
+Diamond City Supplements.esm
+SSTDetailedBunkers.esl
+SSTMinutemenOrganizedMilitia.esl
+SSTVaultDwellerRevisions.esl
+SSTGrizzledSecurity.esl
+Enemies Fear Power Armor.esm
+PreWarSanctuaryTweaks.esl
+SSTMinutemanWatchtowers.esl
+Minuteman Watchtowers - Survey Addon.esm
+Rebuild_SharedResources.esm
+PAHeavyImpact.esl
+Improved Hit VFX.esm
+Dynamic Activation Key.esp
+Enhanced Vanilla Water.esm
+ppf.esm
+VRPShared.esp
+FO4ParticlePatch.esp
 Wetness Shader Fix.esp
-WestonWaterLOD.esp
-Fixed Gobo Effects.esp
+communitytweaksmerged.esp
+ctm-reputation.esp
+OverbossColtersKeysAreNotUseless.esp
 PhotoMode.esp
-CTHHostileNPCsAndWeaponDrawn.esp
-Curated Companions AIO.esp
-The Eyes Of Beauty - SHJ Edit.esp
-Base Face.esp
-Live Action Handy - With GlowMap.esp
-Genetical Father 1.0.1.esp
-Fallout 4 Consistency Tweaks.esp
-4estGimp - AI Edits.esp
-ScalingTweak.esp
-EveryonesBestFriend.esp
-Docile Radstags.esp
-Perk Up.esp
-Capped Out.esp
-Perennial Power Armor.esp
-Complex Vendors.esp
-CastleRecruiter.esp
-LockedSafesLegendaryLoot.esp
-PD_LowerWeapon.esp
-Cappy Haystack Cheat.esp
-AA Better Companions - No Conflicts.esp
-BetterBloatflies.esp
-Lightweight Lighting.esp
-AnimatedCandles.esp
-Targeted Textures.esp
-Frame Job.esp
-Blasted Billboards.esp
-Peeling Posters.esp
-Transit Sign HD.esp
-WET.esp
-Crimsomrider's 1950s Feminine Outfits.esp
-Upgradeable Vault Suit.esp
-RB_LJDanse.esp
-Crimsomrider's Transparent Cleanroom Suit.esp
-SSTHazmatSuitImproved.esp
-TeslaImpact.esp
-InstitWeapPosit.esp
-Makeshifttextures.esp
-DaksCombatRifle.esp
-MG69.esp
-Resized_10mm_Pistol.esp
-Better_Notes.esp
-Publick Occurrences Expanded.esp
-Keep Radiants In Commonwealth.esp
-Amelia and Dan at Bunker Hill.esp
+Gamepad - Input.esp
 Less Annoying Berry Mentats.esp
-Companion Thoughts Overhaul.esp
-Guards.esp
-Randomized DC Guard Outfits.esp
-WAVE.esp
-Gloomy Glass.esp
-AOD_AutoOpenDoors.esp
-BetterGenerators.esp
-BetterJunkFences.esp
-SKKSettlementAttackSystem.esp
-BrighterSettlementLights.esp
-LOST Audio Tweaks.esp
+Extended Fake Interior - CC Enclave Remnants Patch.esp
+GeneralAtomicsMrGutsyGuards.esp
+GA Galleria Gutsy Voice Fix - UFO4P Patch.esp
+PD_LowerWeapon.esp
+Actor Scale Remover.esp
+Simple FOV Slider.esp
+ScopeOverlayDOF.esp
+LooksMenu.esp
+Alternative Activation Prompts.esp
+Base Face.esp
+Curated Companions.esp
+Fusion FaceGen.esp
+RB_SynthkindRedefined.esp
+Ghouls Revamped.esp
+keke-bu Magnolia.2268A_1.0.1.esp
+keke-bu Geneva.2F0A_1.0.3.esp
+keke-bu Murphy.19FD8_1.0.0.esp
+FUSION NPC Merge.esp
+LegendariesTheyCanUse.esp
+Simple Everyone's Best Friend.esp
+4estGimp - AI Edits.esp
+BetterBloatflies.esp
+Vendor Diversity Overhaul.esp
+Consistent Combat.esp
+Capped Out.esp
+Perk Up.esp
+Perennial Power Armor NG.esp
+Yellowcake.esp
+SimplePowerArmorReductionSystem.esp
+Synths Spawn Synths.esp
+Food Sanitizer.esp
+LegendaryBosses.esp
+ReflexMode.esp
+ReflexMode_Awareness3Perk.esp
+ReflexMode_RequireSneaking.esp
+BlockingOverhaul.esp
+CompanionWeaponProficiency.esp
+FUSION Worldspace Merge.esp
+FUSION Worldspace Merge1.esp
+FUSION Worldspace Merge2.esp
+FUSION Worldspace Merge3.esp
+FUSION Worldspace Merge4.esp
+Nuka-Cola Project.esp
+Holotape Visual Improvement.esp
+UniqueHolotapes.esp
+FS_BarrelBonanza.esp
+Splash of Pine Trees.esp
+Natural Grasses & Groundcovers.esp
+Natural Grasses and Groundcovers - Nuka World Add-On.esp
+Enhanced Vanilla Armor and Clothing.esp
+Brotherhood of Steel Kit.esp
+Army Helmet Upgrades.esp
+VARP.esp
+RB_LJDanse.esp
+EnclaveX02.esp
+Hellfirenew.esp
+Hellfire-Replacer.esp
+X02-Replacer.esp
+AOSuperAlloysEnhancement.esp
+AOSuperAlloysCubemap.esp
+Crimsomrider's 1950s Feminine Outfits.esp
+AnotherHoodlessFieldScribeHat.esp
+FUSION Armor Merge.esp
+SensibleRifleTweaks.esp
+AssaultRifleMkII_REPLACER.esp
+CombatRifleFixRedux.esp
+SRT_SpadeyCRPatch.esp
+SRT_556CombatRifle.esp
+10mm.esp
+Plasma Weapons Reposition.esp
+MakeshiftWeaponPack_ProjectileTweaks.esp
+Revolvers Reposition.esp
+.44 Pistol Glowsights.esp
+Institute Laser - RobCo Addon.esp
+Laser Weapons Reposition.esp
+SPAS.esp
+SPAS_modcol.esp
+SKI-Broadsider_Chainshot.esp
+RifleReanim.esp
+HuntingRifleSounds.esp
+SensibleLeverGunOverhaul.esp
+PipeGun_Remesh_Mag_Fran.esp
+AKSounds.esp
+HMAoptics.esp
+UniqueReplacers - AutoMusket.esp
+Real Uniques.esp
+FUSION Weapons Merge.esp
+flamerproject4k.esp
+IntegratedAddons.esp
+Keep Radiants In Commonwealth.esp
+WhoIsTheGeneral.esp
+WTG - KRIC Patch.esp
+MinimalMinutemenRadiants.esp
+MoreWeathervanes.esp
+MoreDCBounties.esp
+GoodneighborAutumn.esp
+BetterChemVariants.esp
+DBDR_NickValentineRepairKit_RecordEdit.esp
+Maxson uses power Armor when attacking the institute.esp
+RustyPAminigun.esp
+NoFreeConcordPA.esp
+SimpleSwingingMeatBags.esp
+CIO.esp
+WorkshopCageTweaks-GunnersRaiders.esp
+Reanimated Stimpack Sounds.esp
+Immersive Paint Job Unlocks.esp
+Cambridge BOS Better Dialogue.esp
+PLI_Unmarked_Raider_Camps_P1.esp
+PLI_Unmarked_Raider_Camps_P2.esp
+CommonwealthEncounterPack.esp
+FastTravelFromQuestHubs.esp
+FastTravelFromVault81.esp
+REInterestingQuestBooster.esp
+IntGrievingRaider.esp
+VirgilFastTravel.esp
+V81_GOATSequencePatch.esp
+Grabbing Is Stealing.esp
+Shelter Or Save.esp
+HelpMePackItUp.esp
+SwansPondAfterSwan.esp
+Rebuild_Settlements.esp
+Al_WarehouseBarnRoofCaps.esp
+PLI_USAF_Satellite_Station_Olivia.esp
+PLI_Roadside_Pines_Motel.esp
+PLI_Dark_Hollow_Pond.esp
+PLI_HarbormasterHotel.esp
+PLI_Federal_Ration_Stockpile.esp
+PersistentVolumeSliders.esp
 Project Reality Footsteps FO4.esp
+LOST Audio Tweaks.esp
+FO4RP-GunsRAO.esp
+Laser Weapon Reanimated.esp
+Jump Grunt.esp
+Stimpaks help you breathe.esp
+Elzee Jolly Item Sounds.esp
+Immersive Pickup Sounds F04.esp
+SunFlare.esp
+Hollywood Lasers.esp
+Hollywood Bullet Tracers.esp
+AnimatedCandles.esp
+BetterCoastalWaves.esp
+DMHelmetMerge.esp
+LongerHeadlampLight.esp
+SimpleImpact.esp
+Bullet Impact Overhaul.esp
+Very Zen Impacts.esp
+Fixed Gobo Effects.esp
+UltraInteriorLighting.esp
+UltraExteriorLighting.esp
+Lightweight Lighting.esp
+VessperiaS_GameVisualsConfigurationMenu.esp
 FO4LODGen.esp
-FO4LODGen-DLCCoast-WindTurbines.esp
-FO4LODGen-DLCNukaWorld.esp
-FO4LODGen-DLCWorkshop03.esp
-FO4LODGen-HighTrees.esp
-LOD Fixes and Additons.esp
-FOLODIP - New LODs.esp
-FOLODIP - Raider Windmills.esp
 Optimized Vanilla Tree LODs.esp
 Far Harbor 3d Tree LODs.esp
-FUSION LOD GEN.esp
-FIS-Naming-Weap-Armo-EN.esp
-PRP.esp
-PuddleReflectionFix.esp
+FOLIP - New LODs.esp
+GoodneighborView.esp
+DiamondCityLights.esp
+prp.esp
+PLIRPM_Previs.esp
+PLIDHP_Previs.esp
+PLIUSAFSSO_Previs.esp
+Rebuild_Settlements_Previs.esp
+FUSION LODGEN.esp
 FUSION Conflict Resolution Patch.esp
+R88_SimpleSorter.esp
+4estGimp - Hellfirenew_INNR4FallUI.esp
+4estGimp - EnclaveX02_INNR4FallUI.esp
+FUSION Sorting Patch.esp
