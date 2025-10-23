@@ -1,3 +1,6 @@
+Version 2.0.0
+FULL REBUILD
+
 Version 1.3.1
 FIXED:
 Not flagged to include optional PA rainbox hud fix
@@ -75,3 +78,4 @@ Open Beta
 
 Version 0.1
 Alpha pre release
+
