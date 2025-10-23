@@ -27,12 +27,12 @@
       "discordURL": "https://discord.gg/GBVzYjF6"
     },
     "download_metadata": {
-      "Hash": "Ar+uJlEfNHg=",
-      "Size": 240564789,
-      "NumberOfArchives": 293,
-      "SizeOfArchives": 24963661959,
-      "NumberOfInstalledFiles": 11579,
-      "SizeOfInstalledFiles": 15785746233
+      "Hash": "L/leStHiOyU=",
+      "Size": 83879011,
+      "NumberOfArchives": 495,
+      "SizeOfArchives": 62495749856,
+      "NumberOfInstalledFiles": 31121,
+      "SizeOfInstalledFiles": 62848197254
     },
     "version": "2.0.0",
     "dateCreated": "1970-01-01T00:00:00Z",
@@ -41,3 +41,4 @@
   }
 
 ]
+
