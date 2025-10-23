@@ -1,7 +1,7 @@
 [
   {
     "title": "FUSION",
-    "description": "FUSION is a lightweight mod list that focuses on removing the vanilla games annoyances and improving the core experience. The list is optimised for the low end and includes no ENB or large texture packs. Performance is better than the vanilla game and requirements have not changed from Bethesdas 2015 recommended specs.",
+    "description": "FUSION is a mod list that focuses on improving the games visuals, removing the vanilla games annoyances and improving the core experience without adding in any new gameplay mechanics, weapons or armor.",
     "author": "SpringHeelJon",
     "maintainers": [
       "github/SpringHeelJon"
@@ -11,7 +11,6 @@
     "tags": [
       "Official",
       "Nevernude",
-      "Lightweight",
       "Lore-Friendly",
       "Vanilla Plus"
     ],
@@ -23,7 +22,7 @@
     "links": {
       "image": "https://raw.githubusercontent.com/SpringHeelJon/FO4-FUSION/main/logo%20WJ%20title.webp",
       "readme": "https://www.nexusmods.com/fallout4/mods/62880",
-      "download": "https://authored-files.wabbajack.org/Fusion.wabbajack_a457da69-a017-4389-87c5-4d53a9fa0417",
+      "download": "https://authored-files.wabbajack.org/Fusion.wabbajack_9a473878-abf9-4021-a9b4-b85736aa6d1a",
       "machineURL": "FUSION",
       "discordURL": "https://discord.gg/GBVzYjF6"
     },
@@ -35,9 +34,10 @@
       "NumberOfInstalledFiles": 11579,
       "SizeOfInstalledFiles": 15785746233
     },
-    "version": "1.11.1",
+    "version": "2.0.0",
     "dateCreated": "1970-01-01T00:00:00Z",
     "dateUpdated": "2024-03-25T23:04:47.2404082Z",
     "repositoryName": ""
   }
+
 ]
