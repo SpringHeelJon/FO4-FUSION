@@ -26,7 +26,12 @@
       "machineURL": "FUSION",
       "discordURL": "https://discord.gg/GBVzYjF6",
       "websiteURL": "",
-      "nexusCollection": null
+      "nexusCollection": {
+        "collectionId": "516672",
+        "slug": "ngdlo1",
+        "domainName": "fallout4",
+        "lastRevisionNumber": 1
+      }
     },
     "download_metadata": {
       "Hash": "iZXPNnWJsgQ=",
