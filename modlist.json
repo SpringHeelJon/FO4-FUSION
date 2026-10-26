@@ -22,7 +22,7 @@
     "links": {
       "image": "https://raw.githubusercontent.com/SpringHeelJon/FO4-FUSION/main/logo%20WJ%20title.webp",
       "readme": "https://www.nexusmods.com/fallout4/mods/62880",
-      "download": "https://authored-files.wabbajack.org/Fusion.wabbajack_6e096736-556a-441d-b1f2-e46551ae21bc",
+      "download": "https://authored-files.wabbajack.org/Fusion.wabbajack_d8ad920e-3d02-415c-8913-ecf665204d47",
       "machineURL": "FUSION",
       "discordURL": "https://discord.gg/GBVzYjF6",
       "websiteURL": "",
@@ -34,17 +34,17 @@
       }
     },
     "download_metadata": {
-      "Hash": "p7s7WG/7mZo=",
-      "Size": 33827104,
-      "NumberOfArchives": 498,
-      "SizeOfArchives": 61769941623,
-      "NumberOfInstalledFiles": 18076,
-      "SizeOfInstalledFiles": 48968938255,
-      "TotalSize": 110738879878
+      "Hash": "eoQrvId/A2g=",
+      "Size": 33849899,
+      "NumberOfArchives": 501,
+      "SizeOfArchives": 59230452514,
+      "NumberOfInstalledFiles": 18189,
+      "SizeOfInstalledFiles": 49059070517,
+      "TotalSize": 108289523031
     },
-    "version": "3.0.0",
+    "version": "3.0.1",
     "dateCreated": "1970-01-01T00:00:00Z",
-    "dateUpdated": "2026-09-28T18:14:59.9261461Z",
+    "dateUpdated": "2026-10-26T21:36:36.3569892Z",
     "repositoryName": ""
   }
 ]
